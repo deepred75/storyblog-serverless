@@ -9,3 +9,5 @@ Blog sosial media dengan beberapa fungsi seperti sosial media pada umumnya denga
 - Ikuti / Berhenti mengikuti user, daftar posting yang diikuti
 - Daftar posting dengan hashtag (hanya 1 tag yang didukung untuk setiap posting)
 - Tulis komentar, vote komentar suara naik/turun, hapus komentar, edit komentar (konten), check riwayat edit komentar
+
+Find deployed project here : <a href="https://storyblog.malanggleerrr.com/">Storyblog</a>
