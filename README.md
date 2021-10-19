@@ -12,6 +12,21 @@ Blog sosial media dengan beberapa fungsi seperti sosial media pada umumnya denga
 
 Web app ini dibuat dengan Nuxt dan component Vue, di deploy fully static di cloud hosting dengan permalink yang mendukung SEO
 
+### file nuxt.config.js
+```bash
+export default {
+  target: 'static',
+    ssr: false,
+    generate: {
+      fallback: true
+        },
+    router: {
+      middleware: ['authControl']
+  },
+  head: {
+    title: 'StoryBlog - The Place For Story',
+```
+
 ### .htaccess (avoid 404 page not found)
 ```bash
 # BEGIN nuxt
