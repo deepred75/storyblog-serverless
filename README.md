@@ -1,6 +1,6 @@
 # Storyblog Serverless
 
-Blog sosial media dengan beberapa fungsi seperti sosial media yang ada, daftar fitur yang ada :
+Blog sosial media dengan beberapa fungsi seperti sosial media yang ada dengan daftar fitur berikut :
 
 - Buat akun, ubah informasi akun (lokasi, profesi, bio, nama tampilan, nama pengguna, gambar profil, gambar sampul).
 - Setiap pengguna memiliki halaman profil publik yang mencakup daftar postingan yang telah dipublikasikan pengguna, gambar sampul pengguna, informasi pengguna, dan bagian rahasia 'postingan yang tidak dipublikasikan' yang hanya ditampilkan kepada pemilik halaman.
