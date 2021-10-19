@@ -12,7 +12,7 @@ Blog sosial media dengan beberapa fungsi seperti pada umumnya dengan fitur berik
 
 Web app ini dibuat dengan Nuxt dan component Vue, di deploy fully static di shared hosting dengan permalink yang mendukung SEO
 
-### nuxt.config.js
+### nuxt.config.js (static deploy)
 ```bash
 export default {
   target: 'static',
