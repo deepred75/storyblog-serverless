@@ -23,8 +23,6 @@ export default {
     router: {
       middleware: ['authControl']
   },
-  head: {
-    title: 'StoryBlog - The Place For Story',
 ```
 
 ### .htaccess (menghindari 404 page not found)
