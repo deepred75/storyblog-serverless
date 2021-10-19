@@ -10,7 +10,7 @@ Blog sosial media dengan beberapa fungsi seperti sosial media pada umumnya denga
 - Daftar posting dengan hashtag (hanya 1 tag yang didukung untuk setiap posting)
 - Tulis komentar, vote komentar suara naik/turun, hapus komentar, edit komentar (konten), check riwayat edit komentar
 
-## .htaccess (avoid 404 page not found)
+### .htaccess (avoid 404 page not found)
 ```bash
 # BEGIN nuxt
 RewriteRule ^index\.html$ - [L]
