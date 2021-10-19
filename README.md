@@ -10,7 +10,7 @@ Blog sosial media dengan beberapa fungsi seperti sosial media pada umumnya denga
 - Daftar posting dengan hashtag (hanya 1 tag yang didukung untuk setiap posting)
 - Tulis komentar, vote komentar suara naik/turun, hapus komentar, edit komentar (konten), check riwayat edit komentar
 
-Web app ini dibuat dengan Nuxt dan component Vue, di deploy fully static di cloud hosting dengan permalink yang mendukung SEO
+Web app ini dibuat dengan Nuxt dan component Vue, di deploy fully static di shared hosting dengan permalink yang mendukung SEO
 
 ### nuxt.config.js
 ```bash
