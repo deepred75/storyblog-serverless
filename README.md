@@ -1,4 +1,4 @@
-# Storyblog Serverless
+# Storyblog Social Media
 
 Blog sosial media dengan beberapa fungsi seperti pada umumnya dengan fitur berikut :
 
