@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[15],{528:function(n,t,e){"use strict";e.r(t);var c={asyncData:function(n){n.redirect("/")}},r=e(29),component=Object(r.a)(c,(function(){var n=this.$createElement;return(this._self._c||n)("div")}),[],!1,null,null,null);t.default=component.exports}}]);
